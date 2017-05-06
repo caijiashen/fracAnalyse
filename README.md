@@ -24,7 +24,7 @@ Download latest release from [Releases](https://github.com/caijiashen/fracAnalys
 1. Click Select Folder and choose base folder containing DICOMs/NIFTIs of CMR studies
 
 ```
-Base_Folder/Subj_xx/LVSA_Series/*.dcms
+Base_Folder/Subj_xx/LVSA_Series/*.dcm
 Base_Folder/Subj_xx/LVSA_Series/*.nii
 ```
 

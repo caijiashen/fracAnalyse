@@ -1,6 +1,6 @@
 # fracAnalyse
 
-Fractal analysis tool for computation of LV fractal characteristics, using LVSA images from CMR. Developed by Cai Jiashen, Duke-NUS Medical School.
+Fractal analysis tool for computation of LV fractal characteristics, using LVSA images from CMR.
 
 ![Overview](images/1.png)
 

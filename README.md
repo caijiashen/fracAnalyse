@@ -1,6 +1,6 @@
 # fracAnalyse
 
-Fractal analysis tool for computation of LV fractal characteristics, using LVSA images from CMR.
+Fractal analysis tool for computation of LV fractal characteristics, using LVSA images from CMR. Developed by Cai Jiashen, Duke-NUS Medical School.
 
 ![Overview](images/1.png)
 
@@ -24,8 +24,8 @@ Download latest release from [Releases](https://github.com/caijiashen/fracAnalys
 1. Click Select Folder and choose base folder containing DICOMs/NIFTIs of CMR studies
 
 ```
-Base_Folder/Subj_xx/LVSA/*.dcms
-Base_Folder/Subj_xx/LVSA/*.nii
+Base_Folder/Subj_xx/LVSA_Series/*.dcms
+Base_Folder/Subj_xx/LVSA_Series/*.nii
 ```
 
 2. Select study to be analysed from list and click Load Study

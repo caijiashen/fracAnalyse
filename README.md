@@ -17,9 +17,42 @@ MATLAB Compiler Runtime (MCR): https://www.mathworks.com/products/compiler/mcr.h
 
 Download latest release from [Releases](https://github.com/caijiashen/fracAnalyse/releases)
 
-## Analysis
+## Fractal Analysis
 
+### Loading Images
 
+1. Click Select Folder and choose base folder containing DICOMs/NIFTIs of CMR studies
+
+```
+Base_Folder/Subj_xx/LVSA/*.dcms
+Base_Folder/Subj_xx/LVSA/*.nii
+```
+
+2. Select study to be analysed from list and click Load Study
+
+3. Selected study will be loaded and shown in main window, adjust image slice location as appropriate, with base of LV at Slice Location 1
+
+### Defining Region of Interest (ROI)
+
+ROIs can be defined using ellipse or polygonal tools
+
+1. Click either ROI (Ellipse) or ROI (Polygon) as appropriate and adjust ROI such that it outside of LV endocardial border 
+
+2. Double click to confirm ROI placement
+
+3. Repeat for each slice as desired
+
+### Fractal Dimension Computation
+
+1. Click Compute FD, fractal analysis will proceed automatically
+
+2. Images of thresholding, binary masks and computed FD values will be found in Base Folder
+
+```
+Base_Folder/ThresImg/Subj_xx/thresSlicexxPhasexx.png
+Base_Folder/ThresImg/Subj_xx/binaryMaskSlicexxPhasexx.png
+Base_Folder/FDSummary.csv
+```
 
 ## Authors
 

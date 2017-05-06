@@ -1,6 +1,6 @@
 # fracAnalyse
 
-Fractal analysis tool for computation of LV fractal characteristics, using LVSA images from CMR.
+Fractal analysis tool for computation of LV fractal characteristics, using LVSA series from CMR. Supports DICOMs/NIFTIs.
 
 ![Overview](images/1.png)
 
@@ -8,7 +8,7 @@ Fractal analysis tool for computation of LV fractal characteristics, using LVSA 
 
 ### Prerequisites
 
-Current version is supported on Mac OS
+Current version is supported on Mac OS only, support for Windows is pending.
 
 It is essential to set up MATLAB Compiler Runtime (MCR) prior to installation of fracAnalyse.
 MATLAB Compiler Runtime (MCR): https://www.mathworks.com/products/compiler/mcr.html

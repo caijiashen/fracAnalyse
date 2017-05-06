@@ -14,6 +14,7 @@ MATLAB Compiler Runtime (MCR): https://www.mathworks.com/products/compiler/mcr.h
 
 ### Installing
 
+Download latest release from [Releases](https://github.com/caijiashen/fracAnalyse/releases)
 
 ## Analysis
 

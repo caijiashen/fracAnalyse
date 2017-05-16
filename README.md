@@ -56,6 +56,10 @@ Base_Folder/ThresImg/Subj_xx/binaryMaskSlicexxPhasexx.png
 Base_Folder/FDSummary.csv
 ```
 
+## Reference Ranges for Healthy Chinese
+
+Reference ranges for LV trabeculation (fractal dimension; FD) and myocardial deformation (global myocardial strain) parameters can be found at [Reference Ranges](refranges/).
+
 ## Authors
 
 * **Jiashen Cai ** - *Duke-NUS Medical School* - [caijiashen](https://github.com/caijiashen)
